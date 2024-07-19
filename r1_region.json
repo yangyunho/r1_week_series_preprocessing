@@ -1,0 +1,4702 @@
+[
+    {
+        "idx": 1,
+        "index": 1,
+        "sang": "전국",
+        "ha": "전국",
+        "area_code": "9000000000",
+        "sido": "전국",
+        "sigun": "전국",
+        "gubun": 5,
+        "sido2": "전국",
+        "sigun2": "",
+        "area_code5": "90000",
+        "area_code4": "9000",
+        "area_code2": "90",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 2,
+        "index": 2,
+        "sang": "전국",
+        "ha": "수도권",
+        "area_code": "9100000000",
+        "sido": "전국",
+        "sigun": "수도권",
+        "gubun": 5,
+        "sido2": "수도권",
+        "sigun2": "",
+        "area_code5": "91000",
+        "area_code4": "9100",
+        "area_code2": "91",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 3,
+        "index": 3,
+        "sang": "전국",
+        "ha": "지방",
+        "area_code": "",
+        "sido": "전국",
+        "sigun": "지방",
+        "gubun": 0,
+        "sido2": "지방",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 4,
+        "index": 4,
+        "sang": "전국",
+        "ha": "6대광역시",
+        "area_code": "",
+        "sido": "전국",
+        "sigun": "6대광역시",
+        "gubun": 0,
+        "sido2": "6대광역시",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 5,
+        "index": 5,
+        "sang": "전국",
+        "ha": "5대광역시",
+        "area_code": "9200000000",
+        "sido": "전국",
+        "sigun": "5대광역시",
+        "gubun": 5,
+        "sido2": "5대광역시",
+        "sigun2": "",
+        "area_code5": "92000",
+        "area_code4": "9200",
+        "area_code2": "92",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 6,
+        "index": 6,
+        "sang": "전국",
+        "ha": "9개도",
+        "area_code": "",
+        "sido": "전국",
+        "sigun": "9개도",
+        "gubun": 0,
+        "sido2": "9개도",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 7,
+        "index": 7,
+        "sang": "전국",
+        "ha": "8개도",
+        "area_code": "9300000000",
+        "sido": "전국",
+        "sigun": "8개도",
+        "gubun": 5,
+        "sido2": "8개도",
+        "sigun2": "",
+        "area_code5": "93000",
+        "area_code4": "9300",
+        "area_code2": "93",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 8,
+        "index": 8,
+        "sang": "서울",
+        "ha": "서울특별시",
+        "area_code": "1100000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시",
+        "gubun": 3,
+        "sido2": "서울특별시",
+        "sigun2": "",
+        "area_code5": "11000",
+        "area_code4": "1100",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 9,
+        "index": 9,
+        "sang": "서울",
+        "ha": "강북권역",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 10,
+        "index": 10,
+        "sang": "서울",
+        "ha": "도심권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 11,
+        "index": 11,
+        "sang": "서울",
+        "ha": "종로구",
+        "area_code": "1111000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 종로구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "종로구",
+        "area_code5": "11110",
+        "area_code4": "1111",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 12,
+        "index": 12,
+        "sang": "서울",
+        "ha": "중구",
+        "area_code": "1114000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 중구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "중구",
+        "area_code5": "11140",
+        "area_code4": "1114",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 13,
+        "index": 13,
+        "sang": "서울",
+        "ha": "용산구",
+        "area_code": "1117000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 용산구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "용산구",
+        "area_code5": "11170",
+        "area_code4": "1117",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 14,
+        "index": 14,
+        "sang": "서울",
+        "ha": "동북권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 15,
+        "index": 15,
+        "sang": "서울",
+        "ha": "성동구",
+        "area_code": "1120000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 성동구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "성동구",
+        "area_code5": "11200",
+        "area_code4": "1120",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 16,
+        "index": 16,
+        "sang": "서울",
+        "ha": "광진구",
+        "area_code": "1121500000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 광진구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "광진구",
+        "area_code5": "11215",
+        "area_code4": "1121",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 17,
+        "index": 17,
+        "sang": "서울",
+        "ha": "동대문구",
+        "area_code": "1123000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 동대문구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "동대문구",
+        "area_code5": "11230",
+        "area_code4": "1123",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 18,
+        "index": 18,
+        "sang": "서울",
+        "ha": "중랑구",
+        "area_code": "1126000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 중랑구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "중랑구",
+        "area_code5": "11260",
+        "area_code4": "1126",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 19,
+        "index": 19,
+        "sang": "서울",
+        "ha": "성북구",
+        "area_code": "1129000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 성북구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "성북구",
+        "area_code5": "11290",
+        "area_code4": "1129",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 20,
+        "index": 20,
+        "sang": "서울",
+        "ha": "강북구",
+        "area_code": "1130500000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 강북구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "강북구",
+        "area_code5": "11305",
+        "area_code4": "1130",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 21,
+        "index": 21,
+        "sang": "서울",
+        "ha": "도봉구",
+        "area_code": "1132000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 도봉구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "도봉구",
+        "area_code5": "11320",
+        "area_code4": "1132",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 22,
+        "index": 22,
+        "sang": "서울",
+        "ha": "노원구",
+        "area_code": "1135000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 노원구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "노원구",
+        "area_code5": "11350",
+        "area_code4": "1135",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 23,
+        "index": 23,
+        "sang": "서울",
+        "ha": "서북권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 24,
+        "index": 24,
+        "sang": "서울",
+        "ha": "은평구",
+        "area_code": "1138000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 은평구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "은평구",
+        "area_code5": "11380",
+        "area_code4": "1138",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 25,
+        "index": 25,
+        "sang": "서울",
+        "ha": "서대문구",
+        "area_code": "1141000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 서대문구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "서대문구",
+        "area_code5": "11410",
+        "area_code4": "1141",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 26,
+        "index": 26,
+        "sang": "서울",
+        "ha": "마포구",
+        "area_code": "1144000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 마포구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "마포구",
+        "area_code5": "11440",
+        "area_code4": "1144",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 27,
+        "index": 27,
+        "sang": "서울",
+        "ha": "강남권역",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 28,
+        "index": 28,
+        "sang": "서울",
+        "ha": "서남권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 29,
+        "index": 29,
+        "sang": "서울",
+        "ha": "양천구",
+        "area_code": "1147000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 양천구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "양천구",
+        "area_code5": "11470",
+        "area_code4": "1147",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 30,
+        "index": 30,
+        "sang": "서울",
+        "ha": "강서구",
+        "area_code": "1150000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 강서구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "강서구",
+        "area_code5": "11500",
+        "area_code4": "1150",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 31,
+        "index": 31,
+        "sang": "서울",
+        "ha": "구로구",
+        "area_code": "1153000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 구로구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "구로구",
+        "area_code5": "11530",
+        "area_code4": "1153",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 32,
+        "index": 32,
+        "sang": "서울",
+        "ha": "금천구",
+        "area_code": "1154500000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 금천구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "금천구",
+        "area_code5": "11545",
+        "area_code4": "1154",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 33,
+        "index": 33,
+        "sang": "서울",
+        "ha": "영등포구",
+        "area_code": "1156000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 영등포구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "영등포구",
+        "area_code5": "11560",
+        "area_code4": "1156",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 34,
+        "index": 34,
+        "sang": "서울",
+        "ha": "동작구",
+        "area_code": "1159000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 동작구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "동작구",
+        "area_code5": "11590",
+        "area_code4": "1159",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 35,
+        "index": 35,
+        "sang": "서울",
+        "ha": "관악구",
+        "area_code": "1162000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 관악구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "관악구",
+        "area_code5": "11620",
+        "area_code4": "1162",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 36,
+        "index": 36,
+        "sang": "서울",
+        "ha": "동남권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 37,
+        "index": 37,
+        "sang": "서울",
+        "ha": "서초구",
+        "area_code": "1165000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 서초구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "서초구",
+        "area_code5": "11650",
+        "area_code4": "1165",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 38,
+        "index": 38,
+        "sang": "서울",
+        "ha": "강남구",
+        "area_code": "1168000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 강남구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "강남구",
+        "area_code5": "11680",
+        "area_code4": "1168",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 39,
+        "index": 39,
+        "sang": "서울",
+        "ha": "송파구",
+        "area_code": "1171000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 송파구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "송파구",
+        "area_code5": "11710",
+        "area_code4": "1171",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 40,
+        "index": 40,
+        "sang": "서울",
+        "ha": "강동구",
+        "area_code": "1174000000",
+        "sido": "서울특별시",
+        "sigun": "서울특별시 강동구",
+        "gubun": 1,
+        "sido2": "서울특별시",
+        "sigun2": "강동구",
+        "area_code5": "11740",
+        "area_code4": "1174",
+        "area_code2": "11",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 41,
+        "index": 41,
+        "sang": "경기",
+        "ha": "경기도",
+        "area_code": "4100000000",
+        "sido": "경기도",
+        "sigun": "경기도",
+        "gubun": 3,
+        "sido2": "경기도",
+        "sigun2": "",
+        "area_code5": "41000",
+        "area_code4": "4100",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 42,
+        "index": 42,
+        "sang": "경기",
+        "ha": "경부1권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 43,
+        "index": 43,
+        "sang": "경기",
+        "ha": "과천",
+        "area_code": "4129000000",
+        "sido": "경기도",
+        "sigun": "경기도 과천시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "과천시",
+        "area_code5": "41290",
+        "area_code4": "4129",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 44,
+        "index": 44,
+        "sang": "경기",
+        "ha": "안양",
+        "area_code": "4117000000",
+        "sido": "경기도",
+        "sigun": "경기도 안양시",
+        "gubun": 2,
+        "sido2": "경기도",
+        "sigun2": "안양시",
+        "area_code5": "41170",
+        "area_code4": "4117",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 45,
+        "index": 45,
+        "sang": "경기",
+        "ha": "안양만안구",
+        "area_code": "4117100000",
+        "sido": "경기도",
+        "sigun": "경기도 안양시 만안구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "안양시 만안구",
+        "area_code5": "41171",
+        "area_code4": "4117",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 46,
+        "index": 46,
+        "sang": "경기",
+        "ha": "안양동안구",
+        "area_code": "4117300000",
+        "sido": "경기도",
+        "sigun": "경기도 안양시 동안구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "안양시 동안구",
+        "area_code5": "41173",
+        "area_code4": "4117",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 47,
+        "index": 47,
+        "sang": "경기",
+        "ha": "성남",
+        "area_code": "4113000000",
+        "sido": "경기도",
+        "sigun": "경기도 성남시",
+        "gubun": 2,
+        "sido2": "경기도",
+        "sigun2": "성남시",
+        "area_code5": "41130",
+        "area_code4": "4113",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 48,
+        "index": 48,
+        "sang": "경기",
+        "ha": "성남수정구",
+        "area_code": "4113100000",
+        "sido": "경기도",
+        "sigun": "경기도 성남시 수정구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "성남시 수정구",
+        "area_code5": "41131",
+        "area_code4": "4113",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 49,
+        "index": 49,
+        "sang": "경기",
+        "ha": "성남중원구",
+        "area_code": "4113300000",
+        "sido": "경기도",
+        "sigun": "경기도 성남시 중원구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "성남시 중원구",
+        "area_code5": "41133",
+        "area_code4": "4113",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 50,
+        "index": 50,
+        "sang": "경기",
+        "ha": "성남분당구",
+        "area_code": "4113500000",
+        "sido": "경기도",
+        "sigun": "경기도 성남시 분당구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "성남시 분당구",
+        "area_code5": "41135",
+        "area_code4": "4113",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 51,
+        "index": 51,
+        "sang": "경기",
+        "ha": "군포",
+        "area_code": "4141000000",
+        "sido": "경기도",
+        "sigun": "경기도 군포시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "군포시",
+        "area_code5": "41410",
+        "area_code4": "4141",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 52,
+        "index": 52,
+        "sang": "경기",
+        "ha": "의왕",
+        "area_code": "4143000000",
+        "sido": "경기도",
+        "sigun": "경기도 의왕시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "의왕시",
+        "area_code5": "41430",
+        "area_code4": "4143",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 53,
+        "index": 53,
+        "sang": "경기",
+        "ha": "경부2권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 54,
+        "index": 54,
+        "sang": "경기",
+        "ha": "안성",
+        "area_code": "4155000000",
+        "sido": "경기도",
+        "sigun": "경기도 안성시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "안성시",
+        "area_code5": "41550",
+        "area_code4": "4155",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 55,
+        "index": 55,
+        "sang": "경기",
+        "ha": "용인",
+        "area_code": "4146000000",
+        "sido": "경기도",
+        "sigun": "경기도 용인시",
+        "gubun": 2,
+        "sido2": "경기도",
+        "sigun2": "용인시",
+        "area_code5": "41460",
+        "area_code4": "4146",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 56,
+        "index": 56,
+        "sang": "경기",
+        "ha": "용인처인구",
+        "area_code": "4146100000",
+        "sido": "경기도",
+        "sigun": "경기도 용인시 처인구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "용인시 처인구",
+        "area_code5": "41461",
+        "area_code4": "4146",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 57,
+        "index": 57,
+        "sang": "경기",
+        "ha": "용인기흥구",
+        "area_code": "4146300000",
+        "sido": "경기도",
+        "sigun": "경기도 용인시 기흥구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "용인시 기흥구",
+        "area_code5": "41463",
+        "area_code4": "4146",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 58,
+        "index": 58,
+        "sang": "경기",
+        "ha": "용인수지",
+        "area_code": "4146500000",
+        "sido": "경기도",
+        "sigun": "경기도 용인시 수지구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "용인시 수지구",
+        "area_code5": "41465",
+        "area_code4": "4146",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 59,
+        "index": 59,
+        "sang": "경기",
+        "ha": "수원",
+        "area_code": "4111000000",
+        "sido": "경기도",
+        "sigun": "경기도 수원시",
+        "gubun": 2,
+        "sido2": "경기도",
+        "sigun2": "수원시",
+        "area_code5": "41110",
+        "area_code4": "4111",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 60,
+        "index": 60,
+        "sang": "경기",
+        "ha": "수원장안구",
+        "area_code": "4111100000",
+        "sido": "경기도",
+        "sigun": "경기도 수원시 장안구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "수원시 장안구",
+        "area_code5": "41111",
+        "area_code4": "4111",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 61,
+        "index": 61,
+        "sang": "경기",
+        "ha": "수원권선구",
+        "area_code": "4111300000",
+        "sido": "경기도",
+        "sigun": "경기도 수원시 권선구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "수원시 권선구",
+        "area_code5": "41113",
+        "area_code4": "4111",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 62,
+        "index": 62,
+        "sang": "경기",
+        "ha": "수원팔달구",
+        "area_code": "4111500000",
+        "sido": "경기도",
+        "sigun": "경기도 수원시 팔달구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "수원시 팔달구",
+        "area_code5": "41115",
+        "area_code4": "4111",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 63,
+        "index": 63,
+        "sang": "경기",
+        "ha": "수원영통구",
+        "area_code": "4111700000",
+        "sido": "경기도",
+        "sigun": "경기도 수원시 영통구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "수원시 영통구",
+        "area_code5": "41117",
+        "area_code4": "4111",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 64,
+        "index": 64,
+        "sang": "경기",
+        "ha": "서해안권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 65,
+        "index": 65,
+        "sang": "경기",
+        "ha": "부천",
+        "area_code": "4119000000",
+        "sido": "경기도",
+        "sigun": "경기도 부천시",
+        "gubun": 2,
+        "sido2": "경기도",
+        "sigun2": "부천시",
+        "area_code5": "41190",
+        "area_code4": "4119",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 66,
+        "index": 66,
+        "sang": "경기",
+        "ha": "부천원미구",
+        "area_code": "4119200000",
+        "sido": "경기도",
+        "sigun": "경기도 부천시 원미구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "부천시 원미구",
+        "area_code5": "41192",
+        "area_code4": "4119",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 67,
+        "index": 67,
+        "sang": "경기",
+        "ha": "부천소사구",
+        "area_code": "4119400000",
+        "sido": "경기도",
+        "sigun": "경기도 부천시 소사구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "부천시 소사구",
+        "area_code5": "41194",
+        "area_code4": "4119",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 68,
+        "index": 68,
+        "sang": "경기",
+        "ha": "부천오정구",
+        "area_code": "4119600000",
+        "sido": "경기도",
+        "sigun": "경기도 부천시 오정구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "부천시 오정구",
+        "area_code5": "41196",
+        "area_code4": "4119",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 69,
+        "index": 69,
+        "sang": "경기",
+        "ha": "안산",
+        "area_code": "4127000000",
+        "sido": "경기도",
+        "sigun": "경기도 안산시",
+        "gubun": 2,
+        "sido2": "경기도",
+        "sigun2": "안산시",
+        "area_code5": "41270",
+        "area_code4": "4127",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 70,
+        "index": 70,
+        "sang": "경기",
+        "ha": "안산상록구",
+        "area_code": "4127100000",
+        "sido": "경기도",
+        "sigun": "경기도 안산시 상록구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "안산시 상록구",
+        "area_code5": "41271",
+        "area_code4": "4127",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 71,
+        "index": 71,
+        "sang": "경기",
+        "ha": "안산단원구",
+        "area_code": "4127300000",
+        "sido": "경기도",
+        "sigun": "경기도 안산시 단원구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "안산시 단원구",
+        "area_code5": "41273",
+        "area_code4": "4127",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 72,
+        "index": 72,
+        "sang": "경기",
+        "ha": "시흥",
+        "area_code": "4139000000",
+        "sido": "경기도",
+        "sigun": "경기도 시흥시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "시흥시",
+        "area_code5": "41390",
+        "area_code4": "4139",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 73,
+        "index": 73,
+        "sang": "경기",
+        "ha": "광명",
+        "area_code": "4121000000",
+        "sido": "경기도",
+        "sigun": "경기도 광명시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "광명시",
+        "area_code5": "41210",
+        "area_code4": "4121",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 74,
+        "index": 74,
+        "sang": "경기",
+        "ha": "화성",
+        "area_code": "4159000000",
+        "sido": "경기도",
+        "sigun": "경기도 화성시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "화성시",
+        "area_code5": "41590",
+        "area_code4": "4159",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 75,
+        "index": 75,
+        "sang": "경기",
+        "ha": "오산",
+        "area_code": "4137000000",
+        "sido": "경기도",
+        "sigun": "경기도 오산시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "오산시",
+        "area_code5": "41370",
+        "area_code4": "4137",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 76,
+        "index": 76,
+        "sang": "경기",
+        "ha": "평택",
+        "area_code": "4122000000",
+        "sido": "경기도",
+        "sigun": "경기도 평택시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "평택시",
+        "area_code5": "41220",
+        "area_code4": "4122",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 77,
+        "index": 77,
+        "sang": "경기",
+        "ha": "동부1권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 78,
+        "index": 78,
+        "sang": "경기",
+        "ha": "남양주",
+        "area_code": "4136000000",
+        "sido": "경기도",
+        "sigun": "경기도 남양주시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "남양주시",
+        "area_code5": "41360",
+        "area_code4": "4136",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 79,
+        "index": 79,
+        "sang": "경기",
+        "ha": "구리",
+        "area_code": "4131000000",
+        "sido": "경기도",
+        "sigun": "경기도 구리시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "구리시",
+        "area_code5": "41310",
+        "area_code4": "4131",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 80,
+        "index": 80,
+        "sang": "경기",
+        "ha": "하남",
+        "area_code": "4145000000",
+        "sido": "경기도",
+        "sigun": "경기도 하남시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "하남시",
+        "area_code5": "41450",
+        "area_code4": "4145",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 81,
+        "index": 81,
+        "sang": "경기",
+        "ha": "광주",
+        "area_code": "4161000000",
+        "sido": "경기도",
+        "sigun": "경기도 광주시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "광주시",
+        "area_code5": "41610",
+        "area_code4": "4161",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 82,
+        "index": 82,
+        "sang": "경기",
+        "ha": "동부2권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 83,
+        "index": 83,
+        "sang": "경기",
+        "ha": "이천",
+        "area_code": "4150000000",
+        "sido": "경기도",
+        "sigun": "경기도 이천시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "이천시",
+        "area_code5": "41500",
+        "area_code4": "4150",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 84,
+        "index": 84,
+        "sang": "경기",
+        "ha": "여주",
+        "area_code": "4167000000",
+        "sido": "경기도",
+        "sigun": "경기도 여주시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "여주시",
+        "area_code5": "41670",
+        "area_code4": "4167",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 85,
+        "index": 85,
+        "sang": "경기",
+        "ha": "경의권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 86,
+        "index": 86,
+        "sang": "경기",
+        "ha": "김포",
+        "area_code": "4157000000",
+        "sido": "경기도",
+        "sigun": "경기도 김포시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "김포시",
+        "area_code5": "41570",
+        "area_code4": "4157",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 87,
+        "index": 87,
+        "sang": "경기",
+        "ha": "고양",
+        "area_code": "4128000000",
+        "sido": "경기도",
+        "sigun": "경기도 고양시",
+        "gubun": 2,
+        "sido2": "경기도",
+        "sigun2": "고양시",
+        "area_code5": "41280",
+        "area_code4": "4128",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 88,
+        "index": 88,
+        "sang": "경기",
+        "ha": "고양덕양구",
+        "area_code": "4128100000",
+        "sido": "경기도",
+        "sigun": "경기도 고양시 덕양구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "고양시 덕양구",
+        "area_code5": "41281",
+        "area_code4": "4128",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 89,
+        "index": 89,
+        "sang": "경기",
+        "ha": "고양일산동구",
+        "area_code": "4128500000",
+        "sido": "경기도",
+        "sigun": "경기도 고양시 일산동구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "고양시 일산동구",
+        "area_code5": "41285",
+        "area_code4": "4128",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 90,
+        "index": 90,
+        "sang": "경기",
+        "ha": "고양일산서구",
+        "area_code": "4128700000",
+        "sido": "경기도",
+        "sigun": "경기도 고양시 일산서구",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "고양시 일산서구",
+        "area_code5": "41287",
+        "area_code4": "4128",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 91,
+        "index": 91,
+        "sang": "경기",
+        "ha": "파주",
+        "area_code": "4148000000",
+        "sido": "경기도",
+        "sigun": "경기도 파주시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "파주시",
+        "area_code5": "41480",
+        "area_code4": "4148",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 92,
+        "index": 92,
+        "sang": "경기",
+        "ha": "경원권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 93,
+        "index": 93,
+        "sang": "경기",
+        "ha": "포천",
+        "area_code": "4165000000",
+        "sido": "경기도",
+        "sigun": "경기도 포천시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "포천시",
+        "area_code5": "41650",
+        "area_code4": "4165",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 94,
+        "index": 94,
+        "sang": "경기",
+        "ha": "동두천",
+        "area_code": "4125000000",
+        "sido": "경기도",
+        "sigun": "경기도 동두천시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "동두천시",
+        "area_code5": "41250",
+        "area_code4": "4125",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 95,
+        "index": 95,
+        "sang": "경기",
+        "ha": "양주",
+        "area_code": "4163000000",
+        "sido": "경기도",
+        "sigun": "경기도 양주시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "양주시",
+        "area_code5": "41630",
+        "area_code4": "4163",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 96,
+        "index": 96,
+        "sang": "경기",
+        "ha": "의정부",
+        "area_code": "4115000000",
+        "sido": "경기도",
+        "sigun": "경기도 의정부시",
+        "gubun": 1,
+        "sido2": "경기도",
+        "sigun2": "의정부시",
+        "area_code5": "41150",
+        "area_code4": "4115",
+        "area_code2": "41",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 97,
+        "index": 97,
+        "sang": "인천",
+        "ha": "인천광역시",
+        "area_code": "2800000000",
+        "sido": "인천광역시",
+        "sigun": "인천광역시",
+        "gubun": 3,
+        "sido2": "인천광역시",
+        "sigun2": "",
+        "area_code5": "28000",
+        "area_code4": "2800",
+        "area_code2": "28",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 98,
+        "index": 98,
+        "sang": "인천",
+        "ha": "인천중구",
+        "area_code": "2811000000",
+        "sido": "인천광역시",
+        "sigun": "인천광역시 중구",
+        "gubun": 1,
+        "sido2": "인천광역시",
+        "sigun2": "중구",
+        "area_code5": "28110",
+        "area_code4": "2811",
+        "area_code2": "28",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 99,
+        "index": 99,
+        "sang": "인천",
+        "ha": "인천동구",
+        "area_code": "2814000000",
+        "sido": "인천광역시",
+        "sigun": "인천광역시 동구",
+        "gubun": 1,
+        "sido2": "인천광역시",
+        "sigun2": "동구",
+        "area_code5": "28140",
+        "area_code4": "2814",
+        "area_code2": "28",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 100,
+        "index": 100,
+        "sang": "인천",
+        "ha": "인천미추홀구",
+        "area_code": "2817700000",
+        "sido": "인천광역시",
+        "sigun": "인천광역시 미추홀구",
+        "gubun": 1,
+        "sido2": "인천광역시",
+        "sigun2": "미추홀구",
+        "area_code5": "28177",
+        "area_code4": "2817",
+        "area_code2": "28",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 101,
+        "index": 101,
+        "sang": "인천",
+        "ha": "인천연수구",
+        "area_code": "2818500000",
+        "sido": "인천광역시",
+        "sigun": "인천광역시 연수구",
+        "gubun": 1,
+        "sido2": "인천광역시",
+        "sigun2": "연수구",
+        "area_code5": "28185",
+        "area_code4": "2818",
+        "area_code2": "28",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 102,
+        "index": 102,
+        "sang": "인천",
+        "ha": "인천남동구",
+        "area_code": "2820000000",
+        "sido": "인천광역시",
+        "sigun": "인천광역시 남동구",
+        "gubun": 1,
+        "sido2": "인천광역시",
+        "sigun2": "남동구",
+        "area_code5": "28200",
+        "area_code4": "2820",
+        "area_code2": "28",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 103,
+        "index": 103,
+        "sang": "인천",
+        "ha": "인천부평구",
+        "area_code": "2823700000",
+        "sido": "인천광역시",
+        "sigun": "인천광역시 부평구",
+        "gubun": 1,
+        "sido2": "인천광역시",
+        "sigun2": "부평구",
+        "area_code5": "28237",
+        "area_code4": "2823",
+        "area_code2": "28",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 104,
+        "index": 104,
+        "sang": "인천",
+        "ha": "인천계양구",
+        "area_code": "2824500000",
+        "sido": "인천광역시",
+        "sigun": "인천광역시 계양구",
+        "gubun": 1,
+        "sido2": "인천광역시",
+        "sigun2": "계양구",
+        "area_code5": "28245",
+        "area_code4": "2824",
+        "area_code2": "28",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 105,
+        "index": 105,
+        "sang": "인천",
+        "ha": "인천서구",
+        "area_code": "2826000000",
+        "sido": "인천광역시",
+        "sigun": "인천광역시 서구",
+        "gubun": 1,
+        "sido2": "인천광역시",
+        "sigun2": "서구",
+        "area_code5": "28260",
+        "area_code4": "2826",
+        "area_code2": "28",
+        "area_gubun": "1",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 106,
+        "index": 106,
+        "sang": "부산",
+        "ha": "부산광역시",
+        "area_code": "2600000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시",
+        "gubun": 3,
+        "sido2": "부산광역시",
+        "sigun2": "",
+        "area_code5": "26000",
+        "area_code4": "2600",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 107,
+        "index": 107,
+        "sang": "부산",
+        "ha": "부산중부산권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 108,
+        "index": 108,
+        "sang": "부산",
+        "ha": "부산중구",
+        "area_code": "2611000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 중구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "중구",
+        "area_code5": "26110",
+        "area_code4": "2611",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 109,
+        "index": 109,
+        "sang": "부산",
+        "ha": "부산서구",
+        "area_code": "2614000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 서구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "서구",
+        "area_code5": "26140",
+        "area_code4": "2614",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 110,
+        "index": 110,
+        "sang": "부산",
+        "ha": "부산동구",
+        "area_code": "2617000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 동구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "동구",
+        "area_code5": "26170",
+        "area_code4": "2617",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 111,
+        "index": 111,
+        "sang": "부산",
+        "ha": "부산영도구",
+        "area_code": "2620000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 영도구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "영도구",
+        "area_code5": "26200",
+        "area_code4": "2620",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 112,
+        "index": 112,
+        "sang": "부산",
+        "ha": "부산부산진구",
+        "area_code": "2623000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 부산진구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "부산진구",
+        "area_code5": "26230",
+        "area_code4": "2623",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 113,
+        "index": 113,
+        "sang": "부산",
+        "ha": "부산남구",
+        "area_code": "2629000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 남구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "남구",
+        "area_code5": "26290",
+        "area_code4": "2629",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 114,
+        "index": 114,
+        "sang": "부산",
+        "ha": "부산연제구",
+        "area_code": "2647000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 연제구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "연제구",
+        "area_code5": "26470",
+        "area_code4": "2647",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 115,
+        "index": 115,
+        "sang": "부산",
+        "ha": "부산수영구",
+        "area_code": "2650000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 수영구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "수영구",
+        "area_code5": "26500",
+        "area_code4": "2650",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 116,
+        "index": 116,
+        "sang": "부산",
+        "ha": "부산동부산권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 117,
+        "index": 117,
+        "sang": "부산",
+        "ha": "부산해운대구",
+        "area_code": "2635000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 해운대구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "해운대구",
+        "area_code5": "26350",
+        "area_code4": "2635",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 118,
+        "index": 118,
+        "sang": "부산",
+        "ha": "부산금정구",
+        "area_code": "2641000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 금정구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "금정구",
+        "area_code5": "26410",
+        "area_code4": "2641",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 119,
+        "index": 119,
+        "sang": "부산",
+        "ha": "부산동래구",
+        "area_code": "2626000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 동래구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "동래구",
+        "area_code5": "26260",
+        "area_code4": "2626",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 120,
+        "index": 120,
+        "sang": "부산",
+        "ha": "부산기장군",
+        "area_code": "2671000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 기장군",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "기장군",
+        "area_code5": "26710",
+        "area_code4": "2671",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 121,
+        "index": 121,
+        "sang": "부산",
+        "ha": "부산서부산권",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": 4,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 122,
+        "index": 122,
+        "sang": "부산",
+        "ha": "부산북구",
+        "area_code": "2632000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 북구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "북구",
+        "area_code5": "26320",
+        "area_code4": "2632",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 123,
+        "index": 123,
+        "sang": "부산",
+        "ha": "부산강서구",
+        "area_code": "2644000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 강서구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "강서구",
+        "area_code5": "26440",
+        "area_code4": "2644",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 124,
+        "index": 124,
+        "sang": "부산",
+        "ha": "부산사상구",
+        "area_code": "2653000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 사상구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "사상구",
+        "area_code5": "26530",
+        "area_code4": "2653",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 125,
+        "index": 125,
+        "sang": "부산",
+        "ha": "부산사하구",
+        "area_code": "2638000000",
+        "sido": "부산광역시",
+        "sigun": "부산광역시 사하구",
+        "gubun": 1,
+        "sido2": "부산광역시",
+        "sigun2": "사하구",
+        "area_code5": "26380",
+        "area_code4": "2638",
+        "area_code2": "26",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 126,
+        "index": 126,
+        "sang": "대구",
+        "ha": "대구광역시",
+        "area_code": "2700000000",
+        "sido": "대구광역시",
+        "sigun": "대구광역시",
+        "gubun": 3,
+        "sido2": "대구광역시",
+        "sigun2": "",
+        "area_code5": "27000",
+        "area_code4": "2700",
+        "area_code2": "27",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 127,
+        "index": 127,
+        "sang": "대구",
+        "ha": "대구중구",
+        "area_code": "2711000000",
+        "sido": "대구광역시",
+        "sigun": "대구광역시 중구",
+        "gubun": 1,
+        "sido2": "대구광역시",
+        "sigun2": "중구",
+        "area_code5": "27110",
+        "area_code4": "2711",
+        "area_code2": "27",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 128,
+        "index": 128,
+        "sang": "대구",
+        "ha": "대구동구",
+        "area_code": "2714000000",
+        "sido": "대구광역시",
+        "sigun": "대구광역시 동구",
+        "gubun": 1,
+        "sido2": "대구광역시",
+        "sigun2": "동구",
+        "area_code5": "27140",
+        "area_code4": "2714",
+        "area_code2": "27",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 129,
+        "index": 129,
+        "sang": "대구",
+        "ha": "대구서구",
+        "area_code": "2717000000",
+        "sido": "대구광역시",
+        "sigun": "대구광역시 서구",
+        "gubun": 1,
+        "sido2": "대구광역시",
+        "sigun2": "서구",
+        "area_code5": "27170",
+        "area_code4": "2717",
+        "area_code2": "27",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 130,
+        "index": 130,
+        "sang": "대구",
+        "ha": "대구남구",
+        "area_code": "2720000000",
+        "sido": "대구광역시",
+        "sigun": "대구광역시 남구",
+        "gubun": 1,
+        "sido2": "대구광역시",
+        "sigun2": "남구",
+        "area_code5": "27200",
+        "area_code4": "2720",
+        "area_code2": "27",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 131,
+        "index": 131,
+        "sang": "대구",
+        "ha": "대구북구",
+        "area_code": "2723000000",
+        "sido": "대구광역시",
+        "sigun": "대구광역시 북구",
+        "gubun": 1,
+        "sido2": "대구광역시",
+        "sigun2": "북구",
+        "area_code5": "27230",
+        "area_code4": "2723",
+        "area_code2": "27",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 132,
+        "index": 132,
+        "sang": "대구",
+        "ha": "대구수성구",
+        "area_code": "2726000000",
+        "sido": "대구광역시",
+        "sigun": "대구광역시 수성구",
+        "gubun": 1,
+        "sido2": "대구광역시",
+        "sigun2": "수성구",
+        "area_code5": "27260",
+        "area_code4": "2726",
+        "area_code2": "27",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 133,
+        "index": 133,
+        "sang": "대구",
+        "ha": "대구달서구",
+        "area_code": "2729000000",
+        "sido": "대구광역시",
+        "sigun": "대구광역시 달서구",
+        "gubun": 1,
+        "sido2": "대구광역시",
+        "sigun2": "달서구",
+        "area_code5": "27290",
+        "area_code4": "2729",
+        "area_code2": "27",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 134,
+        "index": 134,
+        "sang": "대구",
+        "ha": "대구달성군",
+        "area_code": "2771000000",
+        "sido": "대구광역시",
+        "sigun": "대구광역시 달성군",
+        "gubun": 1,
+        "sido2": "대구광역시",
+        "sigun2": "달성군",
+        "area_code5": "27710",
+        "area_code4": "2771",
+        "area_code2": "27",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 135,
+        "index": 135,
+        "sang": "광주",
+        "ha": "광주광역시",
+        "area_code": "2900000000",
+        "sido": "광주광역시",
+        "sigun": "광주광역시",
+        "gubun": 3,
+        "sido2": "광주광역시",
+        "sigun2": "",
+        "area_code5": "29000",
+        "area_code4": "2900",
+        "area_code2": "29",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 136,
+        "index": 136,
+        "sang": "광주",
+        "ha": "광주동구",
+        "area_code": "2911000000",
+        "sido": "광주광역시",
+        "sigun": "광주광역시 동구",
+        "gubun": 1,
+        "sido2": "광주광역시",
+        "sigun2": "동구",
+        "area_code5": "29110",
+        "area_code4": "2911",
+        "area_code2": "29",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 137,
+        "index": 137,
+        "sang": "광주",
+        "ha": "광주서구",
+        "area_code": "2914000000",
+        "sido": "광주광역시",
+        "sigun": "광주광역시 서구",
+        "gubun": 1,
+        "sido2": "광주광역시",
+        "sigun2": "서구",
+        "area_code5": "29140",
+        "area_code4": "2914",
+        "area_code2": "29",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 138,
+        "index": 138,
+        "sang": "광주",
+        "ha": "광주남구",
+        "area_code": "2915500000",
+        "sido": "광주광역시",
+        "sigun": "광주광역시 남구",
+        "gubun": 1,
+        "sido2": "광주광역시",
+        "sigun2": "남구",
+        "area_code5": "29155",
+        "area_code4": "2915",
+        "area_code2": "29",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 139,
+        "index": 139,
+        "sang": "광주",
+        "ha": "광주북구",
+        "area_code": "2917000000",
+        "sido": "광주광역시",
+        "sigun": "광주광역시 북구",
+        "gubun": 1,
+        "sido2": "광주광역시",
+        "sigun2": "북구",
+        "area_code5": "29170",
+        "area_code4": "2917",
+        "area_code2": "29",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 140,
+        "index": 140,
+        "sang": "광주",
+        "ha": "광주광산구",
+        "area_code": "2920000000",
+        "sido": "광주광역시",
+        "sigun": "광주광역시 광산구",
+        "gubun": 1,
+        "sido2": "광주광역시",
+        "sigun2": "광산구",
+        "area_code5": "29200",
+        "area_code4": "2920",
+        "area_code2": "29",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 141,
+        "index": 141,
+        "sang": "대전",
+        "ha": "대전광역시",
+        "area_code": "3000000000",
+        "sido": "대전광역시",
+        "sigun": "대전광역시",
+        "gubun": 3,
+        "sido2": "대전광역시",
+        "sigun2": "",
+        "area_code5": "30000",
+        "area_code4": "3000",
+        "area_code2": "30",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 142,
+        "index": 142,
+        "sang": "대전",
+        "ha": "대전동구",
+        "area_code": "3011000000",
+        "sido": "대전광역시",
+        "sigun": "대전광역시 동구",
+        "gubun": 1,
+        "sido2": "대전광역시",
+        "sigun2": "동구",
+        "area_code5": "30110",
+        "area_code4": "3011",
+        "area_code2": "30",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 143,
+        "index": 143,
+        "sang": "대전",
+        "ha": "대전중구",
+        "area_code": "3014000000",
+        "sido": "대전광역시",
+        "sigun": "대전광역시 중구",
+        "gubun": 1,
+        "sido2": "대전광역시",
+        "sigun2": "중구",
+        "area_code5": "30140",
+        "area_code4": "3014",
+        "area_code2": "30",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 144,
+        "index": 144,
+        "sang": "대전",
+        "ha": "대전서구",
+        "area_code": "3017000000",
+        "sido": "대전광역시",
+        "sigun": "대전광역시 서구",
+        "gubun": 1,
+        "sido2": "대전광역시",
+        "sigun2": "서구",
+        "area_code5": "30170",
+        "area_code4": "3017",
+        "area_code2": "30",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 145,
+        "index": 145,
+        "sang": "대전",
+        "ha": "대전유성구",
+        "area_code": "3020000000",
+        "sido": "대전광역시",
+        "sigun": "대전광역시 유성구",
+        "gubun": 1,
+        "sido2": "대전광역시",
+        "sigun2": "유성구",
+        "area_code5": "30200",
+        "area_code4": "3020",
+        "area_code2": "30",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 146,
+        "index": 146,
+        "sang": "대전",
+        "ha": "대전대덕구",
+        "area_code": "3023000000",
+        "sido": "대전광역시",
+        "sigun": "대전광역시 대덕구",
+        "gubun": 1,
+        "sido2": "대전광역시",
+        "sigun2": "대덕구",
+        "area_code5": "30230",
+        "area_code4": "3023",
+        "area_code2": "30",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 147,
+        "index": 147,
+        "sang": "울산",
+        "ha": "울산광역시",
+        "area_code": "3100000000",
+        "sido": "울산광역시",
+        "sigun": "울산광역시",
+        "gubun": 3,
+        "sido2": "울산광역시",
+        "sigun2": "",
+        "area_code5": "31000",
+        "area_code4": "3100",
+        "area_code2": "31",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 148,
+        "index": 148,
+        "sang": "울산",
+        "ha": "울산중구",
+        "area_code": "3111000000",
+        "sido": "울산광역시",
+        "sigun": "울산광역시 중구",
+        "gubun": 1,
+        "sido2": "울산광역시",
+        "sigun2": "중구",
+        "area_code5": "31110",
+        "area_code4": "3111",
+        "area_code2": "31",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 149,
+        "index": 149,
+        "sang": "울산",
+        "ha": "울산남구",
+        "area_code": "3114000000",
+        "sido": "울산광역시",
+        "sigun": "울산광역시 남구",
+        "gubun": 1,
+        "sido2": "울산광역시",
+        "sigun2": "남구",
+        "area_code5": "31140",
+        "area_code4": "3114",
+        "area_code2": "31",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 150,
+        "index": 150,
+        "sang": "울산",
+        "ha": "울산동구",
+        "area_code": "3117000000",
+        "sido": "울산광역시",
+        "sigun": "울산광역시 동구",
+        "gubun": 1,
+        "sido2": "울산광역시",
+        "sigun2": "동구",
+        "area_code5": "31170",
+        "area_code4": "3117",
+        "area_code2": "31",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 151,
+        "index": 151,
+        "sang": "울산",
+        "ha": "울산북구",
+        "area_code": "3120000000",
+        "sido": "울산광역시",
+        "sigun": "울산광역시 북구",
+        "gubun": 1,
+        "sido2": "울산광역시",
+        "sigun2": "북구",
+        "area_code5": "31200",
+        "area_code4": "3120",
+        "area_code2": "31",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 152,
+        "index": 152,
+        "sang": "울산",
+        "ha": "울산울주군",
+        "area_code": "3171000000",
+        "sido": "울산광역시",
+        "sigun": "울산광역시 울주군",
+        "gubun": 1,
+        "sido2": "울산광역시",
+        "sigun2": "울주군",
+        "area_code5": "31710",
+        "area_code4": "3171",
+        "area_code2": "31",
+        "area_gubun": "2",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 153,
+        "index": 153,
+        "sang": "세종",
+        "ha": "세종시",
+        "area_code": "3611000000",
+        "sido": "세종특별자치시",
+        "sigun": "세종특별자치시",
+        "gubun": 13,
+        "sido2": "세종특별자치시",
+        "sigun2": "",
+        "area_code5": "36110",
+        "area_code4": "3611",
+        "area_code2": "36",
+        "area_gubun": "4",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 154,
+        "index": 154,
+        "sang": "강원",
+        "ha": "강원도",
+        "area_code": "5100000000",
+        "sido": "강원도",
+        "sigun": "강원도",
+        "gubun": 3,
+        "sido2": "강원도",
+        "sigun2": "",
+        "area_code5": "51000",
+        "area_code4": "5100",
+        "area_code2": "51",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 155,
+        "index": 155,
+        "sang": "강원",
+        "ha": "춘천",
+        "area_code": "5111000000",
+        "sido": "강원도",
+        "sigun": "강원도 춘천시",
+        "gubun": 1,
+        "sido2": "강원도",
+        "sigun2": "춘천시",
+        "area_code5": "51110",
+        "area_code4": "5111",
+        "area_code2": "51",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 156,
+        "index": 156,
+        "sang": "강원",
+        "ha": "원주",
+        "area_code": "5113000000",
+        "sido": "강원도",
+        "sigun": "강원도 원주시",
+        "gubun": 1,
+        "sido2": "강원도",
+        "sigun2": "원주시",
+        "area_code5": "51130",
+        "area_code4": "5113",
+        "area_code2": "51",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 157,
+        "index": 157,
+        "sang": "강원",
+        "ha": "강릉",
+        "area_code": "5115000000",
+        "sido": "강원도",
+        "sigun": "강원도 강릉시",
+        "gubun": 1,
+        "sido2": "강원도",
+        "sigun2": "강릉시",
+        "area_code5": "51150",
+        "area_code4": "5115",
+        "area_code2": "51",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 158,
+        "index": 158,
+        "sang": "강원",
+        "ha": "동해",
+        "area_code": "5117000000",
+        "sido": "강원도",
+        "sigun": "강원도 동해시",
+        "gubun": 1,
+        "sido2": "강원도",
+        "sigun2": "동해시",
+        "area_code5": "51170",
+        "area_code4": "5117",
+        "area_code2": "51",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 159,
+        "index": 159,
+        "sang": "강원",
+        "ha": "태백",
+        "area_code": "5119000000",
+        "sido": "강원도",
+        "sigun": "강원도 태백시",
+        "gubun": 1,
+        "sido2": "강원도",
+        "sigun2": "태백시",
+        "area_code5": "51190",
+        "area_code4": "5119",
+        "area_code2": "51",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 160,
+        "index": 160,
+        "sang": "강원",
+        "ha": "속초",
+        "area_code": "5121000000",
+        "sido": "강원도",
+        "sigun": "강원도 속초시",
+        "gubun": 1,
+        "sido2": "강원도",
+        "sigun2": "속초시",
+        "area_code5": "51210",
+        "area_code4": "5121",
+        "area_code2": "51",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 161,
+        "index": 161,
+        "sang": "강원",
+        "ha": "삼척",
+        "area_code": "5123000000",
+        "sido": "강원도",
+        "sigun": "강원도 삼척시",
+        "gubun": 1,
+        "sido2": "강원도",
+        "sigun2": "삼척시",
+        "area_code5": "51230",
+        "area_code4": "5123",
+        "area_code2": "51",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 162,
+        "index": 162,
+        "sang": "충북",
+        "ha": "충청북도",
+        "area_code": "4300000000",
+        "sido": "충청북도",
+        "sigun": "충청북도",
+        "gubun": 3,
+        "sido2": "충청북도",
+        "sigun2": "",
+        "area_code5": "43000",
+        "area_code4": "4300",
+        "area_code2": "43",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 163,
+        "index": 163,
+        "sang": "충북",
+        "ha": "(구)청주",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": -1,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 164,
+        "index": 164,
+        "sang": "충북",
+        "ha": "(구)상당",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": -1,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 165,
+        "index": 165,
+        "sang": "충북",
+        "ha": "(구)흥덕",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": -1,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 166,
+        "index": 166,
+        "sang": "충북",
+        "ha": "청주",
+        "area_code": "4311000000",
+        "sido": "충청북도",
+        "sigun": "충청북도 청주시",
+        "gubun": 2,
+        "sido2": "충청북도",
+        "sigun2": "청주시",
+        "area_code5": "43110",
+        "area_code4": "4311",
+        "area_code2": "43",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 167,
+        "index": 167,
+        "sang": "충북",
+        "ha": "청주상당구",
+        "area_code": "4311100000",
+        "sido": "충청북도",
+        "sigun": "충청북도 청주시 상당구",
+        "gubun": 1,
+        "sido2": "충청북도",
+        "sigun2": "청주시 상당구",
+        "area_code5": "43111",
+        "area_code4": "4311",
+        "area_code2": "43",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 168,
+        "index": 168,
+        "sang": "충북",
+        "ha": "청주서원구",
+        "area_code": "4311200000",
+        "sido": "충청북도",
+        "sigun": "충청북도 청주시 서원구",
+        "gubun": 1,
+        "sido2": "충청북도",
+        "sigun2": "청주시 서원구",
+        "area_code5": "43112",
+        "area_code4": "4311",
+        "area_code2": "43",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 169,
+        "index": 169,
+        "sang": "충북",
+        "ha": "청주흥덕구",
+        "area_code": "4311300000",
+        "sido": "충청북도",
+        "sigun": "충청북도 청주시 흥덕구",
+        "gubun": 1,
+        "sido2": "충청북도",
+        "sigun2": "청주시 흥덕구",
+        "area_code5": "43113",
+        "area_code4": "4311",
+        "area_code2": "43",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 170,
+        "index": 170,
+        "sang": "충북",
+        "ha": "청주청원구",
+        "area_code": "4311400000",
+        "sido": "충청북도",
+        "sigun": "충청북도 청주시 청원구",
+        "gubun": 1,
+        "sido2": "충청북도",
+        "sigun2": "청주시 청원구",
+        "area_code5": "43114",
+        "area_code4": "4311",
+        "area_code2": "43",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 171,
+        "index": 171,
+        "sang": "충북",
+        "ha": "충주",
+        "area_code": "4313000000",
+        "sido": "충청북도",
+        "sigun": "충청북도 충주시",
+        "gubun": 1,
+        "sido2": "충청북도",
+        "sigun2": "충주시",
+        "area_code5": "43130",
+        "area_code4": "4313",
+        "area_code2": "43",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 172,
+        "index": 172,
+        "sang": "충북",
+        "ha": "제천",
+        "area_code": "4315000000",
+        "sido": "충청북도",
+        "sigun": "충청북도 제천시",
+        "gubun": 1,
+        "sido2": "충청북도",
+        "sigun2": "제천시",
+        "area_code5": "43150",
+        "area_code4": "4315",
+        "area_code2": "43",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 173,
+        "index": 173,
+        "sang": "충북",
+        "ha": "(구)청원",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": -1,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 174,
+        "index": 174,
+        "sang": "충북",
+        "ha": "음성",
+        "area_code": "4377000000",
+        "sido": "충청북도",
+        "sigun": "충청북도 음성군",
+        "gubun": 1,
+        "sido2": "충청북도",
+        "sigun2": "음성군",
+        "area_code5": "43770",
+        "area_code4": "4377",
+        "area_code2": "43",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 175,
+        "index": 175,
+        "sang": "충남",
+        "ha": "충청남도",
+        "area_code": "4400000000",
+        "sido": "충청남도",
+        "sigun": "충청남도",
+        "gubun": 3,
+        "sido2": "충청남도",
+        "sigun2": "",
+        "area_code5": "44000",
+        "area_code4": "4400",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 176,
+        "index": 176,
+        "sang": "충남",
+        "ha": "천안",
+        "area_code": "4413000000",
+        "sido": "충청남도",
+        "sigun": "충청남도 천안시",
+        "gubun": 2,
+        "sido2": "충청남도",
+        "sigun2": "천안시",
+        "area_code5": "44130",
+        "area_code4": "4413",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 177,
+        "index": 177,
+        "sang": "충남",
+        "ha": "천안동남구",
+        "area_code": "4413100000",
+        "sido": "충청남도",
+        "sigun": "충청남도 천안시 동남구",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "천안시 동남구",
+        "area_code5": "44131",
+        "area_code4": "4413",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 178,
+        "index": 178,
+        "sang": "충남",
+        "ha": "천안서북구",
+        "area_code": "4413300000",
+        "sido": "충청남도",
+        "sigun": "충청남도 천안시 서북구",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "천안시 서북구",
+        "area_code5": "44133",
+        "area_code4": "4413",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 179,
+        "index": 179,
+        "sang": "충남",
+        "ha": "공주",
+        "area_code": "4415000000",
+        "sido": "충청남도",
+        "sigun": "충청남도 공주시",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "공주시",
+        "area_code5": "44150",
+        "area_code4": "4415",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 180,
+        "index": 180,
+        "sang": "충남",
+        "ha": "보령",
+        "area_code": "4418000000",
+        "sido": "충청남도",
+        "sigun": "충청남도 보령시",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "보령시",
+        "area_code5": "44180",
+        "area_code4": "4418",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 181,
+        "index": 181,
+        "sang": "충남",
+        "ha": "아산",
+        "area_code": "4420000000",
+        "sido": "충청남도",
+        "sigun": "충청남도 아산시",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "아산시",
+        "area_code5": "44200",
+        "area_code4": "4420",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 182,
+        "index": 182,
+        "sang": "충남",
+        "ha": "서산",
+        "area_code": "4421000000",
+        "sido": "충청남도",
+        "sigun": "충청남도 서산시",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "서산시",
+        "area_code5": "44210",
+        "area_code4": "4421",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 183,
+        "index": 183,
+        "sang": "충남",
+        "ha": "논산",
+        "area_code": "4423000000",
+        "sido": "충청남도",
+        "sigun": "충청남도 논산시",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "논산시",
+        "area_code5": "44230",
+        "area_code4": "4423",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 184,
+        "index": 184,
+        "sang": "충남",
+        "ha": "계룡",
+        "area_code": "4425000000",
+        "sido": "충청남도",
+        "sigun": "충청남도 계룡시",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "계룡시",
+        "area_code5": "44250",
+        "area_code4": "4425",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 185,
+        "index": 185,
+        "sang": "충남",
+        "ha": "연기",
+        "area_code": "",
+        "sido": "",
+        "sigun": "",
+        "gubun": -1,
+        "sido2": "",
+        "sigun2": "",
+        "area_code5": "",
+        "area_code4": "",
+        "area_code2": "",
+        "area_gubun": "",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 186,
+        "index": 186,
+        "sang": "충남",
+        "ha": "홍성",
+        "area_code": "4480000000",
+        "sido": "충청남도",
+        "sigun": "충청남도 홍성군",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "홍성군",
+        "area_code5": "44800",
+        "area_code4": "4480",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 187,
+        "index": 187,
+        "sang": "충남",
+        "ha": "예산",
+        "area_code": "4481000000",
+        "sido": "충청남도",
+        "sigun": "충청남도 예산군",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "예산군",
+        "area_code5": "44810",
+        "area_code4": "4481",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 188,
+        "index": 188,
+        "sang": "충남",
+        "ha": "당진",
+        "area_code": "4427000000",
+        "sido": "충청남도",
+        "sigun": "충청남도 당진시",
+        "gubun": 1,
+        "sido2": "충청남도",
+        "sigun2": "당진시",
+        "area_code5": "44270",
+        "area_code4": "4427",
+        "area_code2": "44",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 189,
+        "index": 189,
+        "sang": "전북",
+        "ha": "전라북도",
+        "area_code": "5200000000",
+        "sido": "전라북도",
+        "sigun": "전라북도",
+        "gubun": 3,
+        "sido2": "전라북도",
+        "sigun2": "",
+        "area_code5": "52000",
+        "area_code4": "5200",
+        "area_code2": "52",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 190,
+        "index": 190,
+        "sang": "전북",
+        "ha": "전주",
+        "area_code": "5211000000",
+        "sido": "전라북도",
+        "sigun": "전라북도 전주시",
+        "gubun": 2,
+        "sido2": "전라북도",
+        "sigun2": "전주시",
+        "area_code5": "52110",
+        "area_code4": "5211",
+        "area_code2": "52",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 191,
+        "index": 191,
+        "sang": "전북",
+        "ha": "전주완산구",
+        "area_code": "5211100000",
+        "sido": "전라북도",
+        "sigun": "전라북도 전주시 완산구",
+        "gubun": 1,
+        "sido2": "전라북도",
+        "sigun2": "전주시 완산구",
+        "area_code5": "52111",
+        "area_code4": "5211",
+        "area_code2": "52",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 192,
+        "index": 192,
+        "sang": "전북",
+        "ha": "전주덕진구",
+        "area_code": "5211300000",
+        "sido": "전라북도",
+        "sigun": "전라북도 전주시 덕진구",
+        "gubun": 1,
+        "sido2": "전라북도",
+        "sigun2": "전주시 덕진구",
+        "area_code5": "52113",
+        "area_code4": "5211",
+        "area_code2": "52",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 193,
+        "index": 193,
+        "sang": "전북",
+        "ha": "군산",
+        "area_code": "5213000000",
+        "sido": "전라북도",
+        "sigun": "전라북도 군산시",
+        "gubun": 1,
+        "sido2": "전라북도",
+        "sigun2": "군산시",
+        "area_code5": "52130",
+        "area_code4": "5213",
+        "area_code2": "52",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 194,
+        "index": 194,
+        "sang": "전북",
+        "ha": "익산",
+        "area_code": "5214000000",
+        "sido": "전라북도",
+        "sigun": "전라북도 익산시",
+        "gubun": 1,
+        "sido2": "전라북도",
+        "sigun2": "익산시",
+        "area_code5": "52140",
+        "area_code4": "5214",
+        "area_code2": "52",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 195,
+        "index": 195,
+        "sang": "전북",
+        "ha": "정읍",
+        "area_code": "5218000000",
+        "sido": "전라북도",
+        "sigun": "전라북도 정읍시",
+        "gubun": 1,
+        "sido2": "전라북도",
+        "sigun2": "정읍시",
+        "area_code5": "52180",
+        "area_code4": "5218",
+        "area_code2": "52",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 196,
+        "index": 196,
+        "sang": "전북",
+        "ha": "남원",
+        "area_code": "5219000000",
+        "sido": "전라북도",
+        "sigun": "전라북도 남원시",
+        "gubun": 1,
+        "sido2": "전라북도",
+        "sigun2": "남원시",
+        "area_code5": "52190",
+        "area_code4": "5219",
+        "area_code2": "52",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 197,
+        "index": 197,
+        "sang": "전북",
+        "ha": "김제",
+        "area_code": "5221000000",
+        "sido": "전라북도",
+        "sigun": "전라북도 김제시",
+        "gubun": 1,
+        "sido2": "전라북도",
+        "sigun2": "김제시",
+        "area_code5": "52210",
+        "area_code4": "5221",
+        "area_code2": "52",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 198,
+        "index": 198,
+        "sang": "전남",
+        "ha": "전라남도",
+        "area_code": "4600000000",
+        "sido": "전라남도",
+        "sigun": "전라남도",
+        "gubun": 3,
+        "sido2": "전라남도",
+        "sigun2": "",
+        "area_code5": "46000",
+        "area_code4": "4600",
+        "area_code2": "46",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 199,
+        "index": 199,
+        "sang": "전남",
+        "ha": "목포",
+        "area_code": "4611000000",
+        "sido": "전라남도",
+        "sigun": "전라남도 목포시",
+        "gubun": 1,
+        "sido2": "전라남도",
+        "sigun2": "목포시",
+        "area_code5": "46110",
+        "area_code4": "4611",
+        "area_code2": "46",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 200,
+        "index": 200,
+        "sang": "전남",
+        "ha": "여수",
+        "area_code": "4613000000",
+        "sido": "전라남도",
+        "sigun": "전라남도 여수시",
+        "gubun": 1,
+        "sido2": "전라남도",
+        "sigun2": "여수시",
+        "area_code5": "46130",
+        "area_code4": "4613",
+        "area_code2": "46",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 201,
+        "index": 201,
+        "sang": "전남",
+        "ha": "순천",
+        "area_code": "4615000000",
+        "sido": "전라남도",
+        "sigun": "전라남도 순천시",
+        "gubun": 1,
+        "sido2": "전라남도",
+        "sigun2": "순천시",
+        "area_code5": "46150",
+        "area_code4": "4615",
+        "area_code2": "46",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 202,
+        "index": 202,
+        "sang": "전남",
+        "ha": "나주",
+        "area_code": "4617000000",
+        "sido": "전라남도",
+        "sigun": "전라남도 나주시",
+        "gubun": 1,
+        "sido2": "전라남도",
+        "sigun2": "나주시",
+        "area_code5": "46170",
+        "area_code4": "4617",
+        "area_code2": "46",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 203,
+        "index": 203,
+        "sang": "전남",
+        "ha": "광양",
+        "area_code": "4623000000",
+        "sido": "전라남도",
+        "sigun": "전라남도 광양시",
+        "gubun": 1,
+        "sido2": "전라남도",
+        "sigun2": "광양시",
+        "area_code5": "46230",
+        "area_code4": "4623",
+        "area_code2": "46",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 204,
+        "index": 204,
+        "sang": "전남",
+        "ha": "무안",
+        "area_code": "4684000000",
+        "sido": "전라남도",
+        "sigun": "전라남도 무안군",
+        "gubun": 1,
+        "sido2": "전라남도",
+        "sigun2": "무안군",
+        "area_code5": "46840",
+        "area_code4": "4684",
+        "area_code2": "46",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 205,
+        "index": 205,
+        "sang": "경북",
+        "ha": "경상북도",
+        "area_code": "4700000000",
+        "sido": "경상북도",
+        "sigun": "경상북도",
+        "gubun": 3,
+        "sido2": "경상북도",
+        "sigun2": "",
+        "area_code5": "47000",
+        "area_code4": "4700",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 206,
+        "index": 206,
+        "sang": "경북",
+        "ha": "경주",
+        "area_code": "4713000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 경주시",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "경주시",
+        "area_code5": "47130",
+        "area_code4": "4713",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 207,
+        "index": 207,
+        "sang": "경북",
+        "ha": "구미",
+        "area_code": "4719000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 구미시",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "구미시",
+        "area_code5": "47190",
+        "area_code4": "4719",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 208,
+        "index": 208,
+        "sang": "경북",
+        "ha": "포항",
+        "area_code": "4711000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 포항시",
+        "gubun": 2,
+        "sido2": "경상북도",
+        "sigun2": "포항시",
+        "area_code5": "47110",
+        "area_code4": "4711",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 209,
+        "index": 209,
+        "sang": "경북",
+        "ha": "포항남구",
+        "area_code": "4711100000",
+        "sido": "경상북도",
+        "sigun": "경상북도 포항시 남구",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "포항시 남구",
+        "area_code5": "47111",
+        "area_code4": "4711",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 210,
+        "index": 210,
+        "sang": "경북",
+        "ha": "포항북구",
+        "area_code": "4711300000",
+        "sido": "경상북도",
+        "sigun": "경상북도 포항시 북구",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "포항시 북구",
+        "area_code5": "47113",
+        "area_code4": "4711",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 211,
+        "index": 211,
+        "sang": "경북",
+        "ha": "김천",
+        "area_code": "4715000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 김천시",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "김천시",
+        "area_code5": "47150",
+        "area_code4": "4715",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 212,
+        "index": 212,
+        "sang": "경북",
+        "ha": "안동",
+        "area_code": "4717000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 안동시",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "안동시",
+        "area_code5": "47170",
+        "area_code4": "4717",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 213,
+        "index": 213,
+        "sang": "경북",
+        "ha": "영주",
+        "area_code": "4721000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 영주시",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "영주시",
+        "area_code5": "47210",
+        "area_code4": "4721",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 214,
+        "index": 214,
+        "sang": "경북",
+        "ha": "영천",
+        "area_code": "4723000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 영천시",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "영천시",
+        "area_code5": "47230",
+        "area_code4": "4723",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 215,
+        "index": 215,
+        "sang": "경북",
+        "ha": "상주",
+        "area_code": "4725000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 상주시",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "상주시",
+        "area_code5": "47250",
+        "area_code4": "4725",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 216,
+        "index": 216,
+        "sang": "경북",
+        "ha": "문경",
+        "area_code": "4728000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 문경시",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "문경시",
+        "area_code5": "47280",
+        "area_code4": "4728",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 217,
+        "index": 217,
+        "sang": "경북",
+        "ha": "경산",
+        "area_code": "4729000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 경산시",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "경산시",
+        "area_code5": "47290",
+        "area_code4": "4729",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 218,
+        "index": 218,
+        "sang": "경북",
+        "ha": "칠곡",
+        "area_code": "4785000000",
+        "sido": "경상북도",
+        "sigun": "경상북도 칠곡군",
+        "gubun": 1,
+        "sido2": "경상북도",
+        "sigun2": "칠곡군",
+        "area_code5": "47850",
+        "area_code4": "4785",
+        "area_code2": "47",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 219,
+        "index": 219,
+        "sang": "경남",
+        "ha": "경상남도",
+        "area_code": "4800000000",
+        "sido": "경상남도",
+        "sigun": "경상남도",
+        "gubun": 3,
+        "sido2": "경상남도",
+        "sigun2": "",
+        "area_code5": "48000",
+        "area_code4": "4800",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 220,
+        "index": 220,
+        "sang": "경남",
+        "ha": "창원",
+        "area_code": "4812000000",
+        "sido": "경상남도",
+        "sigun": "경상남도 창원시",
+        "gubun": 2,
+        "sido2": "경상남도",
+        "sigun2": "창원시",
+        "area_code5": "48120",
+        "area_code4": "4812",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 221,
+        "index": 221,
+        "sang": "경남",
+        "ha": "창원의창구",
+        "area_code": "4812100000",
+        "sido": "경상남도",
+        "sigun": "경상남도 창원시 의창구",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "창원시 의창구",
+        "area_code5": "48121",
+        "area_code4": "4812",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 222,
+        "index": 222,
+        "sang": "경남",
+        "ha": "창원성산구",
+        "area_code": "4812300000",
+        "sido": "경상남도",
+        "sigun": "경상남도 창원시 성산구",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "창원시 성산구",
+        "area_code5": "48123",
+        "area_code4": "4812",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 223,
+        "index": 223,
+        "sang": "경남",
+        "ha": "창원마산합포구",
+        "area_code": "4812500000",
+        "sido": "경상남도",
+        "sigun": "경상남도 창원시 마산합포구",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "창원시 마산합포구",
+        "area_code5": "48125",
+        "area_code4": "4812",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 224,
+        "index": 224,
+        "sang": "경남",
+        "ha": "창원마산회원구",
+        "area_code": "4812700000",
+        "sido": "경상남도",
+        "sigun": "경상남도 창원시 마산회원구",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "창원시 마산회원구",
+        "area_code5": "48127",
+        "area_code4": "4812",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 225,
+        "index": 225,
+        "sang": "경남",
+        "ha": "창원진해구",
+        "area_code": "4812900000",
+        "sido": "경상남도",
+        "sigun": "경상남도 창원시 진해구",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "창원시 진해구",
+        "area_code5": "48129",
+        "area_code4": "4812",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 226,
+        "index": 226,
+        "sang": "경남",
+        "ha": "진주",
+        "area_code": "4817000000",
+        "sido": "경상남도",
+        "sigun": "경상남도 진주시",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "진주시",
+        "area_code5": "48170",
+        "area_code4": "4817",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 227,
+        "index": 227,
+        "sang": "경남",
+        "ha": "통영",
+        "area_code": "4822000000",
+        "sido": "경상남도",
+        "sigun": "경상남도 통영시",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "통영시",
+        "area_code5": "48220",
+        "area_code4": "4822",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 228,
+        "index": 228,
+        "sang": "경남",
+        "ha": "사천",
+        "area_code": "4824000000",
+        "sido": "경상남도",
+        "sigun": "경상남도 사천시",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "사천시",
+        "area_code5": "48240",
+        "area_code4": "4824",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 229,
+        "index": 229,
+        "sang": "경남",
+        "ha": "김해",
+        "area_code": "4825000000",
+        "sido": "경상남도",
+        "sigun": "경상남도 김해시",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "김해시",
+        "area_code5": "48250",
+        "area_code4": "4825",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 230,
+        "index": 230,
+        "sang": "경남",
+        "ha": "밀양",
+        "area_code": "4827000000",
+        "sido": "경상남도",
+        "sigun": "경상남도 밀양시",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "밀양시",
+        "area_code5": "48270",
+        "area_code4": "4827",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 231,
+        "index": 231,
+        "sang": "경남",
+        "ha": "거제",
+        "area_code": "4831000000",
+        "sido": "경상남도",
+        "sigun": "경상남도 거제시",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "거제시",
+        "area_code5": "48310",
+        "area_code4": "4831",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 232,
+        "index": 232,
+        "sang": "경남",
+        "ha": "양산",
+        "area_code": "4833000000",
+        "sido": "경상남도",
+        "sigun": "경상남도 양산시",
+        "gubun": 1,
+        "sido2": "경상남도",
+        "sigun2": "양산시",
+        "area_code5": "48330",
+        "area_code4": "4833",
+        "area_code2": "48",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 233,
+        "index": 233,
+        "sang": "제주",
+        "ha": "제주도",
+        "area_code": "5000000000",
+        "sido": "제주특별자치도",
+        "sigun": "제주특별자치도",
+        "gubun": 3,
+        "sido2": "제주특별자치도",
+        "sigun2": "",
+        "area_code5": "50000",
+        "area_code4": "5000",
+        "area_code2": "50",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 234,
+        "index": 234,
+        "sang": "제주",
+        "ha": "제주제주",
+        "area_code": "5011000000",
+        "sido": "제주특별자치도",
+        "sigun": "제주특별자치도 제주시",
+        "gubun": 1,
+        "sido2": "제주특별자치도",
+        "sigun2": "제주시",
+        "area_code5": "50110",
+        "area_code4": "5011",
+        "area_code2": "50",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    },
+    {
+        "idx": 235,
+        "index": 235,
+        "sang": "제주",
+        "ha": "제주서귀포",
+        "area_code": "5013000000",
+        "sido": "제주특별자치도",
+        "sigun": "제주특별자치도 서귀포시",
+        "gubun": 1,
+        "sido2": "제주특별자치도",
+        "sigun2": "서귀포시",
+        "area_code5": "50130",
+        "area_code4": "5013",
+        "area_code2": "50",
+        "area_gubun": "3",
+        "create_at": "2023-08-08 18:18:43",
+        "made_by": {
+            "부동산케이스노트": "http://realscasenote.com/"
+        }
+    }
+]
