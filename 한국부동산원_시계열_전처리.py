@@ -44,37 +44,9 @@ createFolder(시계열파일이동할곳)
 ###############폴더만들기##############
 
 driver.get(
-    "https://www.reb.or.kr/r-one/na/ntt/selectNttList.do?mi=9509&bbsId=1106"
+    "https://www.reb.or.kr/r-one/portal/bbs/rpt/downloadAttachFile.do?fileSeq=3713&seq=3140"
 )
 
-# table element 접근. 찾는 속성은 적절하게 고려한다.
-table = driver.find_element(By.XPATH, '//*[@id="contView"]/div[4]/table')
-
-# tbody
-tbody = table.find_element(By.TAG_NAME, "tbody")
-
-td3_text = []
-for tr in tbody.find_elements(By.TAG_NAME, "tr"):
-    for td in [tr.find_elements(By.TAG_NAME, "td")[2]]:
-        td3_text.append(td.get_attribute("innerText"))
-
-
-w = td3_text.index("주간아파트가격동향조사 시계열통계표") + 1
-m = td3_text.index("전국주택가격동향조사(월간) 시계열 통계표") + 1
-
-driver.find_element(
-    By.XPATH, f'//*[@id="contView"]/div[4]/table/tbody/tr[{w}]/td[3]'
-).click()
-time.sleep(1)
-
-# driver.execute_script("window.scrollTo(0, 700)")
-
-driver.switch_to.frame("raonkuploader_frame_kupload")
-
-driver.find_element(By.XPATH, '//*[@id="file_list"]/li[2]/ul/li[2]').click()
-time.sleep(1)
-
-driver.find_element(By.XPATH, '//*[@id="button_download"]').click()
 time.sleep(5)
 
 file = 최초다운로드 + "/r1_week.xlsx"
