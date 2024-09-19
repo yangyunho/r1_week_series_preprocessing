@@ -70,7 +70,7 @@ time.sleep(1)
 # driver.execute_script("window.scrollTo(0, 700)")
 
 # driver.switch_to.frame("raonkuploader_frame_kupload")
-
+print("")
 driver.find_element(By.XPATH, '//*[@id="notice-attach-sect"]/p[2]/a').click()
 # time.sleep(1)
 
