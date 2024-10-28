@@ -1,5 +1,5 @@
 # download_directory = "C:/Users/Administrator/Downloads"
-# root_folder = "H:/파이썬코드모음/시계열다루기"
+# root_folder = "H:/파이썬코드모음/r1주간시계열다루기"
 
 # 폴더경로 입력받기
 download_directory = input("다운로드 디렉터리를 입력하세요: ")
@@ -52,15 +52,18 @@ table = driver.find_element(By.XPATH, '//*[@id="board-data-table"]')
 
 # tbody
 tbody = table.find_element(By.TAG_NAME, "tbody")
-
+time.sleep(3)
 td3_text = []
 for tr in tbody.find_elements(By.TAG_NAME, "tr"):
     for td in [tr.find_elements(By.TAG_NAME, "td")[2]]:
-        td3_text.append(td.get_attribute("innerText"))
+        # 공백과 개행 문자를 모두 제거한 텍스트를 리스트에 추가
+        td_text = td.get_attribute("innerText").replace(" ", "").replace("\n", "")
+        print(td_text)
+        td3_text.append(td_text)
 
 
-w = td3_text.index("주간아파트가격동향조사 시계열통계표") + 1
-m = td3_text.index("전국주택가격동향조사(월간) 시계열 통계표") + 1
+w = td3_text.index("주간아파트가격동향조사시계열통계표") + 1
+m = td3_text.index("전국주택가격동향조사(월간)시계열통계표") + 1
 
 driver.find_element(
     By.XPATH, f'//*[@id="board-data-table"]/tbody/tr[{w}]/td[3]'
